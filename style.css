@@ -1,0 +1,24 @@
+nav{
+    width: 100%;
+    background: lightblue;
+    text-align: center;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+}
+
+.boxOne{
+    height: 100px;
+    width: 500px;
+    background-color: antiquewhite;
+    margin: 30px;
+}
+
+.boxTwo{
+    height: 150px;
+    width: 500px;
+    background-color: antiquewhite;
+    margin: 30px;
+}
